@@ -1,1 +1,1 @@
-quick edit
+var = "Hello, World"
